@@ -10,8 +10,6 @@ from timeit import default_timer
 classic = 'Location of classic dataset'
 realistic = 'Location of realistic dataset'
 
-classic = '/home/callum/Documents/Strathclyde Uni/A.T.S.E/Task 3/Data/classic-nrp/nrp2.txt'
-realistic = '/home/callum/Documents/Strathclyde Uni/A.T.S.E/Task 3/Data/nrp-g2.txt'
 
 def read_data(File):
     """ 
